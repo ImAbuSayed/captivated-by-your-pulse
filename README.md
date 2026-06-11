@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/captivated-by-your-pulse/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Captivated By Your Pulse](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/captivated-by-your-pulse/) |
+| **Get License** | [License this song: Captivated By Your Pulse](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/captivated-by-your-pulse/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the rhythm when you pull me close
+> A quiet fire that nobody knows
+> Your heartbeat racing underneath my hand
+> I’m falling deeper into what we planned
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
